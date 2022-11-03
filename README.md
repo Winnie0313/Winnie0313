@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Winnie
+# 👋 Hi, I’m Winnie
+# Full-Stack Web Developer
+
+
 - 👀 I’m interested in ... traveling, hiking, and cooking
 - 🌱 I’m currently working on ... my portfolio website
 - 💞️ I’m looking to collaborate on ... web development
