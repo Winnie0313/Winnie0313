@@ -1,5 +1,5 @@
-<p align="center"># 👋 Hi, I’m Winnie</p> 
-## Full-Stack Web Developer
+# <p align="center"> 👋 Hi, I’m Winnie</p> 
+## <p align="center"> Full-Stack Web Developer</p>
 
 
 - 👀 I’m interested in ... traveling, hiking, and cooking
