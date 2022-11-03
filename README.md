@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Winnie
+<p align="center"># 👋 Hi, I’m Winnie</p> 
 ## Full-Stack Web Developer
 
 
