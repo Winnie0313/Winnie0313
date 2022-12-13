@@ -3,7 +3,7 @@
 
 
                                       - 👀 I’m interested in ... traveling, hiking, and cooking
-                                      - 🌱 I’m currently working on ... my portfolio website
+                                      - 🌱 I’m currently working on ... a MERN social media proejct, and my portfolio website
                                       - 💞️ I’m looking to collaborate on ... web development
                                       - 📫 How to reach me ... li.winnie0313@gmail.com
 
